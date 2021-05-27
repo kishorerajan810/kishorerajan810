@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to play piano 🎹 .
 
 
-                                                      👇    MY GITHUB STATS      👇
+                                                    👇    MY GITHUB STATS     👇
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=kishorerajan810&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000080">
