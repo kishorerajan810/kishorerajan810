@@ -9,7 +9,7 @@ Student || Learner || Python Developer || Frontend Enthusiast || Programmer Anal
 - 👯 I’m looking to collaborate on any tech Formats.
 - 💬 Ask me about technological skills are explore to our community.
 - 📫 How to reach me: 📞 Linkedin - https://www.linkedin.com/in/kishore-rajan-8117a21a5/ 📞 .
-- ⚡ Fun fact: I love to play piano 🎹 .
+- ⚡ Fun fact: I love to play piano 🎹 and code everyday 👩‍💻.
 
 
                                                👇    MY GITHUB STATS     👇
