@@ -1,4 +1,4 @@
-### Hi Kishore Rajan there 👋
+### Hi I am Kishore Rajan here 👋
 
 Student || Learner || Python Developer || Frontend Enthusiast || Programmer Analyst || Contributor || Problem solver
 
