@@ -1,7 +1,6 @@
-###                                 Hi I am Kishore Rajan here 👋
+###                                 Hi I am Kishore Rajan here
 
-Student || Learner || Python Developer || Frontend Enthusiast || Programmer Analyst || Contributor || Problem solver
-
+Learner || Python Developer || Frontend Enthusiast || Programmer Analyst || Contributor || Problem solver
 
 
 - 🔭 I’m currently working on Frontend and Machine Learning Projects.
