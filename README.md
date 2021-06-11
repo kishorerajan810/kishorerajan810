@@ -11,6 +11,7 @@ Learner || Python Developer || Frontend Enthusiast || Programmer Analyst || Cont
 
 ![image title](https://rushter.com/counter.svg)
 
+![Profile views](https://gpvc.arturio.dev/[kishorerajan810])
 
 ![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
 
