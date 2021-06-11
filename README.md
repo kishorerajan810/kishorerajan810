@@ -1,5 +1,7 @@
 ###                                 Hi I am Kishore Rajan here
 
+![Profile views](https://gpvc.arturio.dev/kishorerajan810)
+
 Learner || Python Developer || Frontend Enthusiast || Programmer Analyst || Contributor || Problem solver
 
 
@@ -9,8 +11,6 @@ Learner || Python Developer || Frontend Enthusiast || Programmer Analyst || Cont
 - 📫 How to reach me: 📞 Linkedin - https://www.linkedin.com/in/kishore-rajan-8117a21a5/ 📞 .
 - ⚡ Fun fact: I love to play piano 🎹 and code everyday 👩‍💻.
 
-![image title](https://rushter.com/counter.svg)
-![Profile views](https://gpvc.arturio.dev/kishorerajan810)
 
 
 
