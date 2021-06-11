@@ -10,7 +10,8 @@ Learner || Python Developer || Frontend Enthusiast || Programmer Analyst || Cont
 - ⚡ Fun fact: I love to play piano 🎹 and code everyday 👩‍💻.
 
 ![image title](https://rushter.com/counter.svg)
-https://gpvc.arturio.dev/kishorerajan810
+![Profile views](https://gpvc.arturio.dev/kishorerajan810)
+
 
 
                                                👇    MY GITHUB STATS     👇
