@@ -8,7 +8,6 @@
  
 <p><a href="https://www.linkedin.com/in/kishore-rajan-8117a21a5/" rel="nofollow" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)" data-canonical-src="https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishore-rajan-8117a21a5/" style="max-width:100%";>
  </a></p>
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/davidteather/) 
                                                 💥 Technologies : Languages and Tools 💥
                                                 
                                                       
