@@ -3,30 +3,16 @@
 <p>
   ![](https://komarev.com/ghpvc/?username=kishorerajan810&color=0000ff&&label=PROFILE+VIEWS) 
 
-<a href="https://twitter.com/USER"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-<a href="https://medium.com/USER"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
-<a href="https://dev.to/USER"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
-<a href="https://YouTube.com/USER"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
-</p>
-
 SOCIAL MEDIA
 Twitter: https://twitter.com/leetradetitan
 GitHub: https://github.com/dennislwm
 Dev.to: https://dev.to/dennislwm
 YouTube: https://youtube.com/dennislwm
 
-
-<p>
-<a href="https://twitter.com/USER"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-<a href="https://medium.com/USER"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
-<a href="https://dev.to/USER"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
-<a href="https://YouTube.com/USER"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
-</p>
-
 - 🔭 I’m currently working on Frontend and Machine Learning Projects.
 - 🌱 I’m currently learning Machine Learning Core concepts and competitive Coding 💻.
 - 📫 How to reach me: 📞 Linkedin - https://www.linkedin.com/in/kishore-rajan-8117a21a5/ 📞 .
-                                                                
+</p>                                                                
                                                 💥 Technologies : Languages and Tools 💥
                                                       
 <p><img src="https://camo.githubusercontent.com/66827c53581cfee18c55618697d74a3c6167932d3c1980fba2019ef7a3e553b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e">
