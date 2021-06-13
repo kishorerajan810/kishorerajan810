@@ -1,6 +1,6 @@
 ###                                 Hi I am Kishore Rajan here 🙋‍♂️👋
 
-![](https://komarev.com/ghpvc/?username=kishorerajan810&color=000080&&label=PROFILE+VIEWS) 
+![](https://komarev.com/ghpvc/?username=kishorerajan810&color=0000ff&&label=PROFILE+VIEWS) 
 
 Learner || Python Developer || Frontend Enthusiast || Programmer Analyst || Contributor || Problem solver
 
@@ -17,7 +17,7 @@ Learner || Python Developer || Frontend Enthusiast || Programmer Analyst || Cont
                                                👇    MY GITHUB STATS     👇
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=kishorerajan810&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000080">
+<img src="https://github-readme-stats.vercel.app/api?username=kishorerajan810&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0000ff">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishorerajan810&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000080)](https://github.com/kishorerajan810/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishorerajan810&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0000ff)](https://github.com/kishorerajan810/github-readme-stats)
