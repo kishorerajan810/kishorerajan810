@@ -2,78 +2,12 @@
 
 <p>
   ![](https://komarev.com/ghpvc/?username=kishorerajan810&color=0000ff&&label=PROFILE+VIEWS) 
-Skip to content
-Search...
-Log in
-Create account
 
-25
-
-10
-
-36
-
-Cover image for README badges that increased my GitHub visitor stats
-README badges that increased my GitHub visitor stats
-#github #git #webdev #markdown
-dennislwm profile image
-dennislwm
-Jul 18, 2020 ・3 min read
-If you are caught in the README hype, like me, then these are some badges that you can use.
-
-Remember to replace USER and REPOSITORY with your GitHub name and repository.
-
-Shields.io
-Visitor Stats
-Visitor Stats
-
-These are badges for visitor statistics of your repository, i.e. stars, forks, watchers, followers.
-![GitHub stars](https://img.shields.io/github/stars/USER/REPOSITORY?style=social)
-![GitHub forks](https://img.shields.io/github/forks/USER/REPOSITORY?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/USER/REPOSITORY?style=social)
-![GitHub followers](https://img.shields.io/github/followers/USER?style=social)
-Code Stats
-Code Stats
-
-These are badges for code analysis of your repository, e.g. repo size, language count, top language, last commit.
-![GitHub repo size](https://img.shields.io/github/repo-size/USER/REPOSITORY?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/USER/REPOSITORY?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/USER/REPOSITORY?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/USER/REPOSITORY?color=red&style=plastic)
-Donate Link
-Donate Link
-
-These are badges for donate links, e.g. kofi-com, patreon.com.
-<span class="badge-buymeacoffee">
-<a href="https://ko-fi.com/USER" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a>
-</span>
-<span class="badge-patreon">
-<a href="https://patreon.com/USER" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a>
-</span>
-Social Media
-Social Media
-
-And last but not least, these are badges for social media, e.g. Twitter, Medium, Dev.to, and YouTube.
-<p>
 <a href="https://twitter.com/USER"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
 <a href="https://medium.com/USER"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
 <a href="https://dev.to/USER"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 <a href="https://YouTube.com/USER"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 </p>
-Disclaimer: There is no guarantee that these badges will increase your GitHub visitor stats.
-
-How to Reach Me
-Python, R and Metatrader for Happi Traders
-https://fxgit.work
-
-FREE $100 CREDIT
-https://digitalocean.com
-
-BUY A COFFEE
-https://ko-fi.com/dennislwm
-
-DONATE
-https://patreon.com/dennislwm
 
 SOCIAL MEDIA
 Twitter: https://twitter.com/leetradetitan
@@ -81,113 +15,14 @@ GitHub: https://github.com/dennislwm
 Dev.to: https://dev.to/dennislwm
 YouTube: https://youtube.com/dennislwm
 
-Discussion (4)
-Subscribe
-pic
-Add to the discussion
- 
-estruyf profile image
-Elio Struyf
-•
-Jul 19 '20
 
-If you are interested in the number of views your profile gets. I created a badge system for this: github.com/estruyf/github-visitors....
-
-It renders this:
-
-ATM it only supports one layout. Might include others as well if I see interest in it.
-
-
-7
- likes
-Reply
- 
-dennislwm profile image
-dennislwm
-•
-Jul 19 '20
-
-Nice one!
-
-
-1
- like
-Reply
- 
-killshot13 profile image
-Michael R.
-•
-Jan 28 • Edited on Jan 28
-
-Great article here @dennislwm ! I was in search of a shield for my Medium account to put on my personal README, and here it is. Thank you!
-
-For those of us who have gone down the personal README rabbit hole, I have also been using this 3-part series as a reference; here is the link to the first article.
-
-View Article
-
-
-2
- likes
-Reply
- 
-scrabill profile image
-Shannon Crabill
-•
-Jul 19 '20
-
-What change over time did you see in your visitor stats after adding these badges?
-
-
-2
- likes
-Reply
-Code of Conduct • Report abuse
-Read next
-alexanderkdev profile image
-5 best Node.JS frameworks
-Alex - Jun 9
-
-mainawycliffe profile image
-Types and Mocking - Typescript
-Maina Wycliffe - Jun 9
-
-dannyengelman profile image
-How to cheat with Web Components
-Danny Engelman - Jun 9
-
-michalrogowski profile image
-Personal CV page
-Michal Rogowski - Jun 9
-
-dennislwm profile image
-dennislwm
-Full-stack hobbyist HTML/CSS/Javascript, Node.js, Bootstrap.js, Harp.js, Sass, MongoDb, Metatrader https://patreon.com/dennislwm
-Follow
-WORK
-IT at Singapore
-LOCATION
-Singapore
-JOINED
-Sep 6, 2019
-More from dennislwm
-Makerwork 006 includes a universal tool to evaluate, discover and compare software projects on GitHub
-#github #vue #javascript #makerwork
-Creating a Blog Theme with Bootstrap and Harp
-#tutorial #staticsitegenerator #harpjs #webdev
 <p>
 <a href="https://twitter.com/USER"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
 <a href="https://medium.com/USER"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
 <a href="https://dev.to/USER"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 <a href="https://YouTube.com/USER"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 </p>
-Home Listings Podcasts Videos Tags Code of Conduct FAQ DEV Shop Sponsors About Privacy Policy Terms of use Contact Sign In/Up
-    
-DEV Community – A constructive and inclusive social network for software developers. With you every step of your journey.
 
-Built on Forem — the open source software that powers DEV and other inclusive communities.
-
-Made with love and Ruby on Rails. DEV Community © 2016 - 2021.
-</p>
 - 🔭 I’m currently working on Frontend and Machine Learning Projects.
 - 🌱 I’m currently learning Machine Learning Core concepts and competitive Coding 💻.
 - 📫 How to reach me: 📞 Linkedin - https://www.linkedin.com/in/kishore-rajan-8117a21a5/ 📞 .
