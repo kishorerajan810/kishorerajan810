@@ -3,12 +3,6 @@
 <p>
   ![](https://komarev.com/ghpvc/?username=kishorerajan810&color=0000ff&&label=PROFILE+VIEWS) 
 
-SOCIAL MEDIA
-Twitter: https://twitter.com/leetradetitan
-GitHub: https://github.com/dennislwm
-Dev.to: https://dev.to/dennislwm
-YouTube: https://youtube.com/dennislwm
-
 - 🔭 I’m currently working on Frontend and Machine Learning Projects.
 - 🌱 I’m currently learning Machine Learning Core concepts and competitive Coding 💻.
 - 📫 How to reach me: 📞 Linkedin - https://www.linkedin.com/in/kishore-rajan-8117a21a5/ 📞 .
