@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently working on Frontend and Machine Learning Projects.
 - 🌱 I’m currently learning Machine Learning Core concepts and competitive Coding 💻.
-- 📫 How to reach me: 📞 [Click Here](https://www.linkedin.com/in/kishore-rajan-8117a21a5/)📞 .
-- ASPxHyperLink.Text = String.Format("<img src='data:image/png;base64,{0}'/>{1}", Convert.ToBase64String(this.image), this.text)
+- 📫 How to reach me:  [Click Here](https://www.linkedin.com/in/kishore-rajan-8117a21a5/)
  
 <a href="https://twitter.com/USER"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
 <a href="https://medium.com/USER"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
