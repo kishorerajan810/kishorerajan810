@@ -8,7 +8,7 @@
  
 <p><a href="https://www.linkedin.com/in/kishore-rajan-8117a21a5/" rel="nofollow" ><img src="https://camo.githubusercontent.com/2c21b9ebb2cca43d4be2c15eca5abd6074e40991e26ad8045c5d9f7626b4b837/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6d6f7368666971726f6e792d626c75653f7374796c653d706c6173746963266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6d6f7368666971726f6e792f" data-canonical-src="https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishore-rajan-8117a21a5/" style="max-width:100%";>
  </a></p>
-
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
                                                 💥 Technologies : Languages and Tools 💥
                                                 
                                                       
