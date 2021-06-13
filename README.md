@@ -6,8 +6,11 @@
 - 🌱 I’m currently learning Machine Learning Core concepts and competitive Coding 💻.
 - 📫 How to reach me:  [Click Here](https://www.linkedin.com/in/kishore-rajan-8117a21a5/)
  
-<p><a href="https://www.linkedin.com/in/kishore-rajan-8117a21a5/" rel="nofollow" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)" style="max-width:100%";>
- </a></p>
+<p>
+ <a href="https://www.linkedin.com/in/kishore-rajan-8117a21a5/" rel="nofollow" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)" style="max-width:100%";>
+</a>
+<a href="https://www.youtube.com/channel/UCOQH3h2E8BRLKaELefMTPQA"> <img src="https://badges.aleen42.com/src/youtube.svg" style="max-width:100%";>
+         </p>
                                                          
                                                       💥 Technologies : Languages and Tools 💥
                                                 
