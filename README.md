@@ -1,6 +1,6 @@
 ###                                 Hi I am Kishore Rajan here
 
-![Profile views](https://gpvc.arturio.dev/kishorerajan810)
+![Profile views](https://gpvc.arturio.dev/kishorerajan8100p)
 
 Learner || Python Developer || Frontend Enthusiast || Programmer Analyst || Contributor || Problem solver
 
