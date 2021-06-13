@@ -1,7 +1,6 @@
 ###                                 Hi I am Kishore Rajan here
 
-![Profile views](https://gpvc.arturio.dev/kishorerajan810)
-
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 Learner || Python Developer || Frontend Enthusiast || Programmer Analyst || Contributor || Problem solver
 
 
