@@ -1,6 +1,6 @@
 ###                                 Hi I am Kishore Rajan here 🙋‍♂️👋
 
-![](https://komarev.com/ghpvc/?username=kishorerajan810&color=0000ff&&label=PROFILE+VIEWS) 
+![](https://komarev.com/ghpvc/?username=kishorerajan810&color=000080&&label=PROFILE+VIEWS) 
 
 Learner || Python Developer || Frontend Enthusiast || Programmer Analyst || Contributor || Problem solver
 
