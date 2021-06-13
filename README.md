@@ -1,15 +1,11 @@
 ###                                 Hi I am Kishore Rajan here 🙋‍♂️👋
 
 ![](https://komarev.com/ghpvc/?username=kishorerajan810&color=0000ff&&label=PROFILE+VIEWS) 
-
-Learner || Python Developer || Frontend Enthusiast || Programmer Analyst || Contributor || Problem solver
 <img src="https://camo.githubusercontent.com/e56d586bf373ad33a4e8c7101246d54d5edc0fb52b87d309b899ce4818bd6086/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170">
 
 - 🔭 I’m currently working on Frontend and Machine Learning Projects.
 - 🌱 I’m currently learning Machine Learning Core concepts and competitive Coding 💻.
-- 👯 I’m looking to collaborate on any tech Formats.
 - 📫 How to reach me: 📞 Linkedin - https://www.linkedin.com/in/kishore-rajan-8117a21a5/ 📞 .
-- ⚡ Fun fact: I love to play piano 🎹 and code everyday 👩‍💻.
 
 
 
