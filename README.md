@@ -33,9 +33,8 @@
 
 <p> 
  <img src="https://github-readme-stats.vercel.app/api?username=kishorerajan810&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0000ff">
- </p>
- 
- <p>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishorerajan810&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0000ff)](https://github.com/kishorerajan810/github-readme-stats)
+
+[![Kishore Rajan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kishorerajan810)](https://github.com/kishorerajan810/github-readme-stats)
 </p>
