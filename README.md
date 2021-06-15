@@ -1,17 +1,17 @@
 ###                                 Hi I am Kishore Rajan here 🙋‍♂️👋
 
-![](https://komarev.com/ghpvc/?username=kishorerajan810&color=0000ff&&label=PROFILE+VIEWS) 
-
-- 🔭 I’m currently working on Frontend and Machine Learning Projects.
-- 🌱 I’m currently learning Machine Learning Core concepts and competitive Coding 💻.
-- 📫 How to reach me:  [Click Here](https://www.linkedin.com/in/kishore-rajan-8117a21a5/)
- 
-<p>
+![](https://komarev.com/ghpvc/?username=kishorerajan810&color=0000ff&&label=PROFILE+VIEWS) <p>
  <a href="https://www.linkedin.com/in/kishore-rajan-8117a21a5/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)"></a>
 <a href="https://www.youtube.com/channel/UCOQH3h2E8BRLKaELefMTPQA"> <img src="https://badges.aleen42.com/src/youtube.svg"></a>
 <a href="https://www.instagram.com/kishorerajan_08/"> <img src="https://badges.aleen42.com/src/instagram.svg"></a>
 <a href="https://stackoverflow.com/users/15824133/kishorerajan810?tab=profile"> <img src="https://badges.aleen42.com/src/stackoverflow.svg"></a>
 </p>
+
+- 🔭 I’m currently working on Frontend and Machine Learning Projects.
+- 🌱 I’m currently learning Machine Learning Core concepts and competitive Coding 💻.
+- 📫 How to reach me:  [Click Here](https://www.linkedin.com/in/kishore-rajan-8117a21a5/)
+ 
+
                                                          
                                                       💥 Technologies : Languages and Tools 💥
                                                 
