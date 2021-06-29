@@ -13,7 +13,7 @@
  
 
                                                          
-                                                      💥 Technologies : Languages and Tools 💥
+                                                  💥 Technologies : Languages and Tools 💥
                                                 
                                                       
 <p>
