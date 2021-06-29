@@ -13,7 +13,7 @@
  
 
                                                          
-                                                  💥 Technologies : Languages and Tools 💥
+                                                💥 Technologies : Languages and Tools 💥
                                                 
                                                       
 <p>
@@ -29,7 +29,7 @@
 </p>
 
 
-                                                     👇    MY GITHUB STATS     👇
+                                                   👇    MY GITHUB STATS     👇
 
 
 ![Kishore Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishorerajan810&hide=contribs,issues&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0000ff)
